@@ -1,0 +1,11 @@
+{
+  "username": "Republic City Press",
+  "avatar_url": "https://media.discordapp.net/attachments/667247646011949077/667422097164730378/republic_city_press_image.png",
+  "content": "Get updates for all Avatar related media here!",
+  "embeds": [
+    {
+      "author": {
+        "name": "/r/legendofkorra",
+        "url": "https://www.reddit.com/r/legendofkorra/",
+        "icon_url": "https://i.redd.it/j6oa992zvea41.jpg"
+      },
