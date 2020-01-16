@@ -1,13 +1,13 @@
 {
-  "username": "Webhook",
-  "avatar_url": "https://i.imgur.com/4M34hi2.png",
-  "content": "Text message. Up to 2000 characters.",
+  "republic city press": "Republic City Press",
+  "avatar_url": "https://media.discordapp.net/attachments/667247646011949077/667422097164730378/republic_city_press_image.png",
+  "content": "See here for all official series updates.",
   "embeds": [
     {
       "author": {
-        "name": "Birdie♫",
-        "url": "https://www.reddit.com/r/cats/",
-        "icon_url": "https://i.imgur.com/R66g1Pe.jpg"
+        "name": "Reddit",
+        "url": "https://www.reddit.com/r/legendofkorra/",
+        "icon_url": "https://media.discordapp.net/attachments/667247646011949077/667424009553575936/crazy_korra.jpg"
       },
       "title": "Title",
       "url": "https://google.com/",
