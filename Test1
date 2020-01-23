@@ -1,0 +1,48 @@
+{
+  "username": "Raava",
+  "avatar_url": "https://media.discordapp.net/attachments/667247646011949077/667292205932871690/raava.png",
+  "content": "This is sample text.",
+  "embeds": [
+    {
+      "author": {
+        "name": "Raava",
+        "url": "https://www.reddit.com/r/TheLastAirbender/",
+        "icon_url": "https://media.discordapp.net/attachments/667247646011949077/667291764658536459/raava.png"
+      },
+      "title": "/r/TheLastAirbender",
+      "url": "https://www.reddit.com/r/TheLastAirbender/",
+      "description": "Text message. You can use Markdown here. *Italic* **bold** __underline__ ~~strikeout~~ [hyperlink](https://google.com) `code`",
+      "color": 2d2d86,
+      "fields": [
+        {
+          "name": "Text",
+          "value": "More text",
+          "inline": true
+        },
+        {
+          "name": "Even more text",
+          "value": "Yup",
+          "inline": true
+        },
+        {
+          "name": "Use `\"inline\": true` parameter, if you want to display fields in the same line.",
+          "value": "okay..."
+        },
+        {
+          "name": "Thanks!",
+          "value": "You're welcome :wink:"
+        }
+      ],
+      "thumbnail": {
+        "url": "https://media.discordapp.net/attachments/667247646011949077/667291764658536459/raava.png"
+      },
+      "image": {
+        "url": "https://media.discordapp.net/attachments/667247646011949077/667291764658536459/raava.png"
+      },
+      "footer": {
+        "text": "Woah! So cool! :smirk:",
+        "icon_url": "https://media.discordapp.net/attachments/667247646011949077/667291764658536459/raava.png"
+      }
+    }
+  ]
+}
